@@ -21,19 +21,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Admin. panel
-- Agent panel
 - Create SLA's
+- Agent panel
+- Admin panel
 - Create Depts.
 
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/zhVk6fB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EWdFpXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the picture above we have several SLA's that were created. All of them have different time frames that the tickets will need to be completed depending on the severity of the issue.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/50y1fVG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here you can see that a agent was added to the system admin. role. This role basically gives the user complete control over all the settings inside the ticketing system. A role such as this is taylored towards a manager or supervisor position. 
+Here you can see that a supreme admin. role has been created. Adding roles can only be done as a administriator on the admin panel. The supreme admin. role basically gives the user complete control over all the settings inside the ticketing system. A role such as this is taylored towards a manager or supervisor position. The agent panel is less complicated and mainly only used for opening and solving tickets.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Here you can see that a agent was added to the system admin. role. This role bas
 <img src=https://i.imgur.com/waCGCR5.png"" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this section you have differnet departments thats were created. Each department represents a different branch inside the operating system that specializes in that specific field.
+In this section you have differnet departments thats were created. Each department represents a different level of responsibility inside the operating system that specializes in that specific field.
 </p>
 <br />
